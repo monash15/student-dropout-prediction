@@ -466,7 +466,7 @@ disertakan di dalam folder dataset.
 
 ### Menjalankan di Streamlit Community Cloud
 
-Tautan prototipe: **<PLACEHOLDER_URL_STREAMLIT>**
+Tautan prototipe: **<https://jaya-jaya-dropout-scorecard.streamlit.app/>**
 
 Langkah penyebarannya:
 
