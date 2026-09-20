@@ -1,0 +1,30 @@
+# ============================================================================
+# Dependensi proyek: Kartu skor risiko dropout mahasiswa Jaya Jaya Institut.
+# Disusun oleh Dimas Naufal Djatmiko.
+# ----------------------------------------------------------------------------
+# Versi dikunci sama persis dengan versi yang dipakai saat menyusun kartu skor.
+# Berkas model/mesin_kartu_skor.joblib menyimpan objek scikit-learn hasil
+# serialisasi, dan memuatnya dengan versi pustaka berbeda dapat memicu
+# peringatan ketidakcocokan atau kegagalan muat.
+#
+# Pemasangan:
+#     pip install -r requirements.txt
+# ============================================================================
+
+# --- Pengolahan data ---
+pandas==2.3.3
+numpy==2.3.4
+
+# --- Pembentuk pita, regresi logistik, pengelompokan profil ---
+scikit-learn==1.7.2
+joblib==1.5.2
+
+# --- Grafik pada notebook ---
+matplotlib==3.10.7
+
+# --- Antarmuka prototipe ---
+streamlit==1.61.1
+
+# Catatan: paket jupyter tidak dicantumkan supaya proses build di Streamlit
+# Community Cloud tetap ringan. Untuk menjalankan notebook.ipynb, pasang:
+#     pip install jupyter ipykernel

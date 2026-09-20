@@ -1,0 +1,13 @@
+# Lingkungan dan cache Python lokal
+.venv/
+.tmp/
+__pycache__/
+*.py[cod]
+
+# Berkas lokal dashboard Metabase (tidak diperlukan aplikasi Streamlit)
+akademik_dimas.db
+metabase.db.mv.db
+
+# Berkas lokal editor/OS
+.DS_Store
+Thumbs.db
