@@ -1,0 +1,51 @@
+kolom;pita;woe;poin;poin_dasar;selisih_poin;variabel;label
+Curricular_units_1st_sem_approved;1 ke bawah;-2.5973992699151527;40;62;-22;MK lulus semester 1;1 ke bawah
+Curricular_units_1st_sem_approved;2 sampai 5;-0.4003237086077458;58;62;-4;MK lulus semester 1;2 sampai 5
+Curricular_units_1st_sem_approved;6;1.5190179535215622;74;62;12;MK lulus semester 1;6
+Curricular_units_1st_sem_approved;7 ke atas;1.596783198103204;74;62;12;MK lulus semester 1;7 ke atas
+Curricular_units_2nd_sem_approved;5 ke bawah;-1.0258038368440412;49;73;-24;MK lulus semester 2;5 ke bawah
+Curricular_units_2nd_sem_approved;6;2.029265319754092;86;73;13;MK lulus semester 2;6
+Curricular_units_2nd_sem_approved;7 ke atas;1.875274866380564;84;73;11;MK lulus semester 2;7 ke atas
+Curricular_units_1st_sem_grade;10,3333 sampai 12;-0.2946406284481265;59;62;-3;Nilai rata rata semester 1;10,3333 sampai 12
+Curricular_units_1st_sem_grade;12 sampai 12,8324;0.6716155214503743;66;62;4;Nilai rata rata semester 1;12 sampai 12,8324
+Curricular_units_1st_sem_grade;12,8324 sampai 13,7143;1.0360860981213151;69;62;7;Nilai rata rata semester 1;12,8324 sampai 13,7143
+Curricular_units_1st_sem_grade;lebih dari 13,7143;1.4037516117512423;71;62;9;Nilai rata rata semester 1;lebih dari 13,7143
+Curricular_units_1st_sem_grade;sampai 10,3333;-2.496398109823096;44;62;-18;Nilai rata rata semester 1;sampai 10,3333
+Curricular_units_2nd_sem_grade;11,8 sampai 12,8;0.8213627566303613;71;68;3;Nilai rata rata semester 2;11,8 sampai 12,8
+Curricular_units_2nd_sem_grade;12,8 sampai 13,7805;1.1856721987451813;76;68;8;Nilai rata rata semester 2;12,8 sampai 13,7805
+Curricular_units_2nd_sem_grade;lebih dari 13,7805;1.6072021088495838;81;68;13;Nilai rata rata semester 2;lebih dari 13,7805
+Curricular_units_2nd_sem_grade;sampai 11,8;-1.4154989116968841;44;68;-24;Nilai rata rata semester 2;sampai 11,8
+Tuition_fees_up_to_date;0;-3.1877313471222153;-8;30;-38;Kelancaran uang kuliah;Uang kuliah tertunggak
+Tuition_fees_up_to_date;1;0.3751533418779909;69;30;39;Kelancaran uang kuliah;Uang kuliah lancar
+Course;171;-0.22562186732867678;59;59;0;Program studi;Animasi dan Desain Multimedia
+Course;8014;0.18616454807312238;63;59;4;Program studi;Kerja Sosial kelas malam
+Course;9003;-0.4855168495725958;57;59;-2;Program studi;Agronomi
+Course;9070;0.4129646352870487;65;59;6;Program studi;Desain Komunikasi Visual
+Course;9085;0.23477679212821617;63;59;4;Program studi;Perawat Hewan
+Course;9119;-2.252295343469857;42;59;-17;Program studi;Teknik Informatika
+Course;9130;-1.0969758705701167;52;59;-7;Program studi;Peternakan Kuda
+Course;9147;-0.4134588290259632;58;59;-1;Program studi;Manajemen
+Course;9238;0.8869456113398192;69;59;10;Program studi;Kerja Sosial
+Course;9254;-0.1384523750726888;60;59;1;Program studi;Pariwisata
+Course;9500;0.9755934012731434;70;59;11;Program studi;Keperawatan
+Course;9670;-0.1061549502844801;60;59;1;Program studi;Manajemen Iklan dan Pemasaran
+Course;9773;0.17924935775698445;63;59;4;Program studi;Jurnalistik dan Komunikasi
+Course;9853;-0.8424460054352362;54;59;-5;Program studi;Pendidikan Dasar
+Course;9991;-0.8292692929533386;54;59;-5;Program studi;Manajemen kelas malam
+Course;Kategori lain;-0.47198579044972677;57;59;-2;Program studi;Kategori lain yang jarang muncul
+Scholarship_holder;0;-0.37021531716221273;55;70;-15;Beasiswa;Bukan penerima beasiswa
+Scholarship_holder;1;1.3472823017729676;84;70;14;Beasiswa;Penerima beasiswa
+Age_at_enrollment;18 ke bawah;0.7565505692295169;68;61;7;Usia mendaftar;18 ke bawah
+Age_at_enrollment;19;0.5134077090596304;66;61;5;Usia mendaftar;19
+Age_at_enrollment;20 sampai 21;0.33266736723953994;64;61;3;Usia mendaftar;20 sampai 21
+Age_at_enrollment;22 sampai 28;-0.7112093179484895;55;61;-6;Usia mendaftar;22 sampai 28
+Age_at_enrollment;29 ke atas;-0.9950439826513519;53;61;-8;Usia mendaftar;29 ke atas
+Application_mode;1;0.6999525547923743;70;58;12;Jalur pendaftaran;Seleksi umum tahap 1
+Application_mode;17;0.11295608125215066;63;58;5;Jalur pendaftaran;Seleksi umum tahap 2
+Application_mode;39;-1.0568654765605365;48;58;-10;Jalur pendaftaran;Jalur usia di atas 23 tahun
+Application_mode;43;-0.3551194942226305;57;58;-1;Jalur pendaftaran;Alih program studi
+Application_mode;44;0.06214004862987346;62;58;4;Jalur pendaftaran;Pemegang diploma vokasi teknologi
+Application_mode;7;-1.1401895966988325;47;58;-11;Jalur pendaftaran;Lulusan perguruan tinggi lain
+Application_mode;Kategori lain;0.008534483820934887;61;58;3;Jalur pendaftaran;Kategori lain yang jarang muncul
+Debtor;0;0.19222591295221142;64;51;13;Riwayat tunggakan;Tidak menunggak
+Debtor;1;-1.511003557611457;38;51;-13;Riwayat tunggakan;Menunggak
