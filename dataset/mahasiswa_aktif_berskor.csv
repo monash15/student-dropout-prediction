@@ -1,0 +1,795 @@
+id_mahasiswa;program_studi;usia_mendaftar;uang_kuliah;mk_lulus_th1;skor_kartu;peringkat;profil
+MHS0554;Teknik Informatika;27;Uang kuliah tertunggak;0;416;E;Terhalang biaya
+MHS0391;Perawat Hewan;25;Uang kuliah tertunggak;0;428;E;Terhalang biaya
+MHS0157;Teknik Informatika;18;Uang kuliah tertunggak;0;435;E;Terhalang biaya
+MHS0030;Manajemen;22;Uang kuliah tertunggak;0;436;E;Terhalang biaya
+MHS0436;Animasi dan Desain Multimedia;18;Uang kuliah tertunggak;0;459;E;Menghilang dari kelas
+MHS0171;Teknik Informatika;18;Uang kuliah tertunggak;6;468;E;Terhalang biaya
+MHS0268;Peternakan Kuda;20;Uang kuliah tertunggak;5;473;E;Terhalang biaya
+MHS0300;Perawat Hewan;24;Uang kuliah tertunggak;6;482;E;Terhalang biaya
+MHS0415;Teknik Informatika;24;Uang kuliah lancar;2;484;E;Berjuang secara akademik
+MHS0648;Manajemen;19;Uang kuliah tertunggak;9;489;E;Terhalang biaya
+MHS0033;Agronomi;47;Uang kuliah lancar;0;497;E;Menghilang dari kelas
+MHS0037;Kerja Sosial;21;Uang kuliah tertunggak;12;501;E;Terhalang biaya
+MHS0163;Perawat Hewan;28;Uang kuliah lancar;0;505;E;Berjuang secara akademik
+MHS0333;Teknik Informatika;34;Uang kuliah lancar;1;508;E;Berjuang secara akademik
+MHS0482;Agronomi;26;Uang kuliah lancar;0;513;E;Menghilang dari kelas
+MHS0485;Teknik Informatika;20;Uang kuliah lancar;0;515;E;Menghilang dari kelas
+MHS0324;Perawat Hewan;19;Uang kuliah tertunggak;8;517;E;Terhalang biaya
+MHS0746;Pariwisata;18;Uang kuliah tertunggak;10;519;E;Terhalang biaya
+MHS0510;Manajemen kelas malam;29;Uang kuliah lancar;0;520;E;Menghilang dari kelas
+MHS0264;Jurnalistik dan Komunikasi;18;Uang kuliah tertunggak;10;520;E;Terhalang biaya
+MHS0353;Manajemen kelas malam;34;Uang kuliah lancar;0;520;E;Menghilang dari kelas
+MHS0742;Perawat Hewan;44;Uang kuliah tertunggak;6;521;E;Berjuang secara akademik
+MHS0600;Manajemen Iklan dan Pemasaran;20;Uang kuliah tertunggak;9;521;E;Terhalang biaya
+MHS0487;Manajemen Iklan dan Pemasaran;21;Uang kuliah tertunggak;8;521;E;Terhalang biaya
+MHS0372;Peternakan Kuda;18;Uang kuliah tertunggak;10;522;E;Terhalang biaya
+MHS0270;Higiene Gigi;19;Uang kuliah lancar;2;523;E;Berjuang secara akademik
+MHS0416;Teknik Informatika;22;Uang kuliah lancar;2;524;E;Berjuang secara akademik
+MHS0020;Teknik Informatika;18;Uang kuliah lancar;2;524;E;Berjuang secara akademik
+MHS0093;Teknik Informatika;24;Uang kuliah lancar;4;525;E;Berjuang secara akademik
+MHS0631;Agronomi;27;Uang kuliah lancar;0;525;E;Menghilang dari kelas
+MHS0207;Teknik Informatika;25;Uang kuliah lancar;2;525;E;Berjuang secara akademik
+MHS0059;Agronomi;30;Uang kuliah lancar;0;526;E;Menghilang dari kelas
+MHS0135;Manajemen;40;Uang kuliah lancar;2;526;E;Berjuang secara akademik
+MHS0265;Manajemen;18;Uang kuliah lancar;0;528;E;Menghilang dari kelas
+MHS0089;Desain Komunikasi Visual;18;Uang kuliah tertunggak;9;531;E;Terhalang biaya
+MHS0145;Peternakan Kuda;23;Uang kuliah tertunggak;10;532;E;Terhalang biaya
+MHS0709;Manajemen;19;Uang kuliah lancar;3;533;E;Berjuang secara akademik
+MHS0308;Teknik Informatika;20;Uang kuliah lancar;2;533;E;Berjuang secara akademik
+MHS0154;Manajemen;22;Uang kuliah tertunggak;8;534;E;Terhalang biaya
+MHS0744;Animasi dan Desain Multimedia;19;Uang kuliah lancar;0;534;E;Menghilang dari kelas
+MHS0411;Teknik Informatika;19;Uang kuliah lancar;1;534;E;Berjuang secara akademik
+MHS0655;Animasi dan Desain Multimedia;19;Uang kuliah lancar;0;534;E;Menghilang dari kelas
+MHS0168;Kerja Sosial;31;Uang kuliah lancar;0;535;E;Berjuang secara akademik
+MHS0707;Manajemen;23;Uang kuliah lancar;1;535;E;Menghilang dari kelas
+MHS0654;Animasi dan Desain Multimedia;22;Uang kuliah lancar;0;536;E;Menghilang dari kelas
+MHS0443;Animasi dan Desain Multimedia;22;Uang kuliah lancar;0;536;E;Menghilang dari kelas
+MHS0161;Manajemen kelas malam;37;Uang kuliah lancar;5;538;E;Berjuang secara akademik
+MHS0596;Teknik Informatika;34;Uang kuliah lancar;3;538;E;Berjuang secara akademik
+MHS0208;Manajemen Iklan dan Pemasaran;21;Uang kuliah lancar;2;539;E;Berjuang secara akademik
+MHS0498;Agronomi;23;Uang kuliah lancar;0;539;E;Menghilang dari kelas
+MHS0662;Pendidikan Dasar;33;Uang kuliah tertunggak;13;540;E;Terhalang biaya
+MHS0421;Animasi dan Desain Multimedia;22;Uang kuliah lancar;0;542;E;Menghilang dari kelas
+MHS0015;Desain Komunikasi Visual;24;Uang kuliah lancar;0;542;E;Menghilang dari kelas
+MHS0454;Teknik Informatika;18;Uang kuliah lancar;6;543;E;Berjuang secara akademik
+MHS0170;Teknik Informatika;24;Uang kuliah lancar;5;543;E;Berjuang secara akademik
+MHS0575;Teknik Informatika;28;Uang kuliah lancar;8;543;E;Berjuang secara akademik
+MHS0312;Manajemen;32;Uang kuliah lancar;6;544;E;Berjuang secara akademik
+MHS0647;Teknik Informatika;18;Uang kuliah lancar;0;545;E;Menghilang dari kelas
+MHS0225;Manajemen;19;Uang kuliah tertunggak;9;545;E;Terhalang biaya
+MHS0776;Teknik Informatika;18;Uang kuliah lancar;1;545;E;Berjuang secara akademik
+MHS0127;Perawat Hewan;20;Uang kuliah tertunggak;8;547;E;Terhalang biaya
+MHS0613;Manajemen kelas malam;32;Uang kuliah lancar;9;547;E;Berjuang secara akademik
+MHS0716;Higiene Gigi;20;Uang kuliah lancar;2;547;E;Berjuang secara akademik
+MHS0102;Pariwisata;23;Uang kuliah lancar;6;549;E;Berjuang secara akademik
+MHS0134;Animasi dan Desain Multimedia;20;Uang kuliah lancar;0;549;E;Menghilang dari kelas
+MHS0183;Animasi dan Desain Multimedia;18;Uang kuliah lancar;0;549;E;Menghilang dari kelas
+MHS0008;Manajemen;18;Uang kuliah tertunggak;5;549;E;Terhalang biaya
+MHS0433;Perawat Hewan;21;Uang kuliah lancar;3;549;E;Berjuang secara akademik
+MHS0767;Animasi dan Desain Multimedia;21;Uang kuliah lancar;0;550;D;Menghilang dari kelas
+MHS0519;Agronomi;34;Uang kuliah tertunggak;12;550;D;Terhalang biaya
+MHS0758;Animasi dan Desain Multimedia;20;Uang kuliah lancar;0;551;D;Menghilang dari kelas
+MHS0242;Teknik Informatika;19;Uang kuliah lancar;4;551;D;Berjuang secara akademik
+MHS0479;Teknik Informatika;18;Uang kuliah lancar;9;552;D;Berjuang secara akademik
+MHS0494;Perawat Hewan;26;Uang kuliah tertunggak;11;552;D;Terhalang biaya
+MHS0585;Manajemen kelas malam;30;Uang kuliah lancar;8;553;D;Berjuang secara akademik
+MHS0514;Jurnalistik dan Komunikasi;18;Uang kuliah lancar;3;553;D;Berjuang secara akademik
+MHS0535;Manajemen kelas malam;34;Uang kuliah lancar;8;553;D;Berjuang secara akademik
+MHS0641;Manajemen kelas malam;38;Uang kuliah lancar;5;553;D;Berjuang secara akademik
+MHS0523;Manajemen kelas malam;50;Uang kuliah lancar;5;553;D;Berjuang secara akademik
+MHS0173;Manajemen kelas malam;34;Uang kuliah lancar;8;553;D;Berjuang secara akademik
+MHS0357;Manajemen kelas malam;34;Uang kuliah lancar;6;553;D;Berjuang secara akademik
+MHS0392;Manajemen kelas malam;37;Uang kuliah lancar;7;553;D;Berjuang secara akademik
+MHS0753;Manajemen kelas malam;20;Uang kuliah lancar;0;553;D;Berjuang secara akademik
+MHS0017;Manajemen;18;Uang kuliah lancar;0;554;D;Menghilang dari kelas
+MHS0490;Higiene Gigi;26;Uang kuliah lancar;0;554;D;Menghilang dari kelas
+MHS0355;Kerja Sosial kelas malam;25;Uang kuliah lancar;10;554;D;Berjuang secara akademik
+MHS0488;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;0;554;D;Berjuang secara akademik
+MHS0598;Jurnalistik dan Komunikasi;21;Uang kuliah lancar;1;555;D;Berjuang secara akademik
+MHS0187;Manajemen kelas malam;25;Uang kuliah lancar;6;555;D;Berjuang secara akademik
+MHS0369;Animasi dan Desain Multimedia;18;Uang kuliah lancar;0;555;D;Menghilang dari kelas
+MHS0374;Animasi dan Desain Multimedia;18;Uang kuliah lancar;0;555;D;Menghilang dari kelas
+MHS0114;Manajemen kelas malam;27;Uang kuliah lancar;7;555;D;Berjuang secara akademik
+MHS0461;Manajemen kelas malam;26;Uang kuliah lancar;8;555;D;Berjuang secara akademik
+MHS0502;Manajemen kelas malam;25;Uang kuliah lancar;6;555;D;Berjuang secara akademik
+MHS0640;Perawat Hewan;19;Uang kuliah tertunggak;10;555;D;Terhalang biaya
+MHS0761;Manajemen kelas malam;25;Uang kuliah lancar;8;556;D;Berjuang secara akademik
+MHS0589;Manajemen kelas malam;25;Uang kuliah lancar;8;556;D;Berjuang secara akademik
+MHS0583;Manajemen;39;Uang kuliah lancar;8;557;D;Berjuang secara akademik
+MHS0144;Manajemen;20;Uang kuliah lancar;5;557;D;Berjuang secara akademik
+MHS0295;Animasi dan Desain Multimedia;20;Uang kuliah lancar;0;558;D;Menghilang dari kelas
+MHS0460;Manajemen;41;Uang kuliah lancar;10;558;D;Berjuang secara akademik
+MHS0399;Perawat Hewan;21;Uang kuliah tertunggak;9;558;D;Terhalang biaya
+MHS0290;Animasi dan Desain Multimedia;20;Uang kuliah lancar;0;558;D;Menghilang dari kelas
+MHS0079;Peternakan Kuda;18;Uang kuliah lancar;4;558;D;Berjuang secara akademik
+MHS0708;Agronomi;24;Uang kuliah lancar;9;558;D;Berjuang secara akademik
+MHS0314;Manajemen;24;Uang kuliah lancar;6;559;D;Berjuang secara akademik
+MHS0668;Manajemen;26;Uang kuliah lancar;10;559;D;Berjuang secara akademik
+MHS0649;Manajemen;19;Uang kuliah lancar;0;559;D;Menghilang dari kelas
+MHS0465;Pendidikan Dasar;22;Uang kuliah tertunggak;12;559;D;Terhalang biaya
+MHS0630;Kerja Sosial;28;Uang kuliah lancar;8;560;D;Berjuang secara akademik
+MHS0358;Animasi dan Desain Multimedia;17;Uang kuliah lancar;0;562;D;Menghilang dari kelas
+MHS0336;Animasi dan Desain Multimedia;18;Uang kuliah lancar;0;562;D;Menghilang dari kelas
+MHS0777;Manajemen;21;Uang kuliah lancar;7;562;D;Berjuang secara akademik
+MHS0031;Animasi dan Desain Multimedia;18;Uang kuliah lancar;0;562;D;Menghilang dari kelas
+MHS0233;Animasi dan Desain Multimedia;18;Uang kuliah lancar;0;562;D;Menghilang dari kelas
+MHS0456;Animasi dan Desain Multimedia;18;Uang kuliah lancar;0;562;D;Menghilang dari kelas
+MHS0434;Kerja Sosial kelas malam;39;Uang kuliah lancar;8;562;D;Berjuang secara akademik
+MHS0193;Animasi dan Desain Multimedia;18;Uang kuliah lancar;0;562;D;Menghilang dari kelas
+MHS0580;Animasi dan Desain Multimedia;18;Uang kuliah lancar;0;562;D;Menghilang dari kelas
+MHS0260;Animasi dan Desain Multimedia;18;Uang kuliah lancar;0;562;D;Menghilang dari kelas
+MHS0292;Manajemen kelas malam;25;Uang kuliah lancar;8;562;D;Berjuang secara akademik
+MHS0012;Animasi dan Desain Multimedia;18;Uang kuliah lancar;0;562;D;Menghilang dari kelas
+MHS0393;Teknik Informatika;19;Uang kuliah lancar;7;563;D;Berjuang secara akademik
+MHS0700;Manajemen;33;Uang kuliah lancar;10;563;D;Berjuang secara akademik
+MHS0262;Teknik Informatika;30;Uang kuliah lancar;7;563;D;Berjuang secara akademik
+MHS0699;Desain Komunikasi Visual;22;Uang kuliah lancar;1;563;D;Menghilang dari kelas
+MHS0459;Kerja Sosial kelas malam;26;Uang kuliah lancar;8;564;D;Berjuang secara akademik
+MHS0635;Manajemen Iklan dan Pemasaran;21;Uang kuliah lancar;5;564;D;Berjuang secara akademik
+MHS0322;Teknik Informatika;18;Uang kuliah tertunggak;9;564;D;Berjuang secara akademik
+MHS0034;Perawat Hewan;28;Uang kuliah lancar;8;564;D;Berjuang secara akademik
+MHS0301;Keperawatan;33;Uang kuliah lancar;2;565;D;Berjuang secara akademik
+MHS0674;Agronomi;19;Uang kuliah lancar;1;565;D;Berjuang secara akademik
+MHS0783;Manajemen kelas malam;30;Uang kuliah lancar;7;565;D;Berjuang secara akademik
+MHS0634;Jurnalistik dan Komunikasi;23;Uang kuliah lancar;5;565;D;Berjuang secara akademik
+MHS0258;Manajemen kelas malam;47;Uang kuliah lancar;8;565;D;Berjuang secara akademik
+MHS0538;Keperawatan;18;Uang kuliah lancar;0;566;D;Menghilang dari kelas
+MHS0493;Peternakan Kuda;21;Uang kuliah lancar;3;566;D;Berjuang secara akademik
+MHS0227;Perawat Hewan;23;Uang kuliah tertunggak;19;567;D;Terhalang biaya
+MHS0349;Pendidikan Dasar;18;Uang kuliah lancar;7;567;D;Berjuang secara akademik
+MHS0326;Manajemen;19;Uang kuliah lancar;1;567;D;Berjuang secara akademik
+MHS0383;Manajemen;22;Uang kuliah lancar;3;567;D;Berjuang secara akademik
+MHS0403;Teknik Informatika;19;Uang kuliah lancar;6;567;D;Berjuang secara akademik
+MHS0752;Pendidikan Dasar;18;Uang kuliah lancar;7;567;D;Berjuang secara akademik
+MHS0425;Teknik Informatika;20;Uang kuliah lancar;4;567;D;Berjuang secara akademik
+MHS0276;Teknik Informatika;21;Uang kuliah lancar;8;567;D;Berjuang secara akademik
+MHS0060;Manajemen;20;Uang kuliah lancar;7;568;D;Berjuang secara akademik
+MHS0787;Kerja Sosial;20;Uang kuliah lancar;0;568;D;Berjuang secara akademik
+MHS0027;Manajemen;20;Uang kuliah lancar;6;568;D;Berjuang secara akademik
+MHS0319;Manajemen;25;Uang kuliah lancar;7;568;D;Berjuang secara akademik
+MHS0601;Teknik Informatika;19;Uang kuliah lancar;3;568;D;Berjuang secara akademik
+MHS0039;Keperawatan;35;Uang kuliah lancar;6;569;D;Berjuang secara akademik
+MHS0528;Kerja Sosial kelas malam;49;Uang kuliah lancar;9;569;D;Berjuang secara akademik
+MHS0335;Keperawatan;48;Uang kuliah lancar;7;569;D;Berjuang secara akademik
+MHS0346;Perawat Hewan;24;Uang kuliah tertunggak;14;569;D;Terhalang biaya
+MHS0390;Peternakan Kuda;24;Uang kuliah lancar;9;569;D;Berjuang secara akademik
+MHS0616;Manajemen;18;Uang kuliah lancar;1;569;D;Berjuang secara akademik
+MHS0727;Perawat Hewan;21;Uang kuliah lancar;6;569;D;Berjuang secara akademik
+MHS0073;Pariwisata;20;Uang kuliah lancar;6;570;D;Berjuang secara akademik
+MHS0086;Perawat Hewan;22;Uang kuliah lancar;9;570;D;Berjuang secara akademik
+MHS0378;Teknik Informatika;18;Uang kuliah lancar;6;571;D;Berjuang secara akademik
+MHS0038;Kerja Sosial kelas malam;23;Uang kuliah lancar;3;571;D;Berjuang secara akademik
+MHS0533;Kerja Sosial kelas malam;34;Uang kuliah lancar;4;572;D;Berjuang secara akademik
+MHS0387;Teknik Informatika;18;Uang kuliah lancar;7;572;D;Berjuang secara akademik
+MHS0419;Jurnalistik dan Komunikasi;29;Uang kuliah tertunggak;11;572;D;Terhalang biaya
+MHS0062;Perawat Hewan;19;Uang kuliah lancar;6;572;D;Berjuang secara akademik
+MHS0619;Manajemen;24;Uang kuliah lancar;7;572;D;Berjuang secara akademik
+MHS0626;Pendidikan Dasar;19;Uang kuliah lancar;8;573;D;Berjuang secara akademik
+MHS0507;Jurnalistik dan Komunikasi;23;Uang kuliah lancar;5;573;D;Berjuang secara akademik
+MHS0552;Teknik Informatika;33;Uang kuliah lancar;7;573;D;Berjuang secara akademik
+MHS0330;Manajemen;20;Uang kuliah lancar;10;574;D;Berjuang secara akademik
+MHS0188;Higiene Gigi;25;Uang kuliah lancar;12;574;D;Berjuang secara akademik
+MHS0179;Pendidikan Dasar;18;Uang kuliah lancar;9;574;D;Berjuang secara akademik
+MHS0274;Desain Komunikasi Visual;18;Uang kuliah lancar;5;574;D;Berjuang secara akademik
+MHS0143;Desain Komunikasi Visual;22;Uang kuliah tertunggak;10;574;D;Berjuang secara akademik
+MHS0156;Pendidikan Dasar;22;Uang kuliah lancar;9;575;D;Berjuang secara akademik
+MHS0136;Manajemen;20;Uang kuliah lancar;10;575;D;Berjuang secara akademik
+MHS0656;Teknik Informatika;19;Uang kuliah lancar;5;575;D;Berjuang secara akademik
+MHS0743;Manajemen;20;Uang kuliah lancar;4;575;D;Berjuang secara akademik
+MHS0097;Manajemen;20;Uang kuliah lancar;7;575;D;Berjuang secara akademik
+MHS0628;Manajemen kelas malam;29;Uang kuliah lancar;9;575;D;Berjuang secara akademik
+MHS0599;Manajemen Iklan dan Pemasaran;24;Uang kuliah lancar;8;576;D;Berjuang secara akademik
+MHS0016;Pariwisata;26;Uang kuliah lancar;11;577;D;Berjuang secara akademik
+MHS0126;Pariwisata;20;Uang kuliah lancar;8;577;D;Berjuang secara akademik
+MHS0682;Higiene Gigi;25;Uang kuliah lancar;6;577;D;Berjuang secara akademik
+MHS0644;Pariwisata;25;Uang kuliah lancar;10;577;D;Berjuang secara akademik
+MHS0756;Pendidikan Dasar;22;Uang kuliah lancar;9;577;D;Berjuang secara akademik
+MHS0152;Teknik Informatika;18;Uang kuliah lancar;6;578;D;Berjuang secara akademik
+MHS0001;Kerja Sosial;18;Uang kuliah lancar;3;578;D;Berjuang secara akademik
+MHS0441;Peternakan Kuda;19;Uang kuliah lancar;7;578;D;Berjuang secara akademik
+MHS0375;Kerja Sosial;19;Uang kuliah lancar;3;578;D;Berjuang secara akademik
+MHS0455;Teknik Informatika;18;Uang kuliah lancar;6;578;D;Berjuang secara akademik
+MHS0570;Manajemen;18;Uang kuliah lancar;5;579;D;Berjuang secara akademik
+MHS0255;Keperawatan;35;Uang kuliah lancar;10;579;D;Berjuang secara akademik
+MHS0457;Manajemen;19;Uang kuliah lancar;7;579;D;Berjuang secara akademik
+MHS0448;Teknik Informatika;20;Uang kuliah lancar;5;579;D;Berjuang secara akademik
+MHS0309;Teknik Informatika;18;Uang kuliah tertunggak;10;579;D;Berjuang secara akademik
+MHS0646;Keperawatan;33;Uang kuliah lancar;5;579;D;Berjuang secara akademik
+MHS0658;Teknik Informatika;18;Uang kuliah tertunggak;10;579;D;Berjuang secara akademik
+MHS0122;Kerja Sosial;18;Uang kuliah lancar;7;579;D;Berjuang secara akademik
+MHS0540;Pendidikan Dasar;20;Uang kuliah lancar;8;580;D;Berjuang secara akademik
+MHS0611;Manajemen;18;Uang kuliah lancar;4;580;D;Berjuang secara akademik
+MHS0430;Manajemen kelas malam;43;Uang kuliah lancar;7;580;D;Berjuang secara akademik
+MHS0480;Manajemen kelas malam;40;Uang kuliah lancar;7;580;D;Berjuang secara akademik
+MHS0530;Manajemen kelas malam;40;Uang kuliah lancar;9;580;D;Berjuang secara akademik
+MHS0757;Pendidikan Dasar;22;Uang kuliah lancar;7;580;D;Berjuang secara akademik
+MHS0007;Agronomi;21;Uang kuliah lancar;10;581;D;Berjuang secara akademik
+MHS0251;Agronomi;20;Uang kuliah lancar;9;581;D;Berjuang secara akademik
+MHS0401;Agronomi;21;Uang kuliah lancar;8;581;D;Berjuang secara akademik
+MHS0396;Agronomi;20;Uang kuliah lancar;5;581;D;Berjuang secara akademik
+MHS0463;Manajemen;24;Uang kuliah lancar;3;581;D;Berjuang secara akademik
+MHS0484;Manajemen;20;Uang kuliah lancar;8;581;D;Berjuang secara akademik
+MHS0450;Pendidikan Dasar;19;Uang kuliah lancar;9;581;D;Berjuang secara akademik
+MHS0774;Manajemen;22;Uang kuliah lancar;7;581;D;Berjuang secara akademik
+MHS0044;Jurnalistik dan Komunikasi;18;Uang kuliah lancar;1;581;D;Berjuang secara akademik
+MHS0586;Manajemen kelas malam;35;Uang kuliah lancar;8;582;D;Berjuang secara akademik
+MHS0398;Pendidikan Dasar;42;Uang kuliah lancar;10;582;D;Berjuang secara akademik
+MHS0257;Manajemen kelas malam;31;Uang kuliah lancar;8;582;D;Berjuang secara akademik
+MHS0199;Manajemen kelas malam;24;Uang kuliah lancar;9;582;D;Berjuang secara akademik
+MHS0273;Animasi dan Desain Multimedia;18;Uang kuliah lancar;0;582;D;Menghilang dari kelas
+MHS0688;Agronomi;22;Uang kuliah lancar;7;582;D;Berjuang secara akademik
+MHS0689;Teknik Informatika;18;Uang kuliah lancar;1;582;D;Menghilang dari kelas
+MHS0778;Manajemen kelas malam;28;Uang kuliah lancar;8;582;D;Berjuang secara akademik
+MHS0063;Manajemen kelas malam;31;Uang kuliah lancar;8;582;D;Berjuang secara akademik
+MHS0013;Animasi dan Desain Multimedia;19;Uang kuliah lancar;0;582;D;Menghilang dari kelas
+MHS0172;Manajemen kelas malam;41;Uang kuliah lancar;9;582;D;Berjuang secara akademik
+MHS0151;Peternakan Kuda;21;Uang kuliah lancar;7;582;D;Berjuang secara akademik
+MHS0458;Kerja Sosial;20;Uang kuliah lancar;1;583;D;Berjuang secara akademik
+MHS0520;Manajemen Iklan dan Pemasaran;22;Uang kuliah lancar;5;583;D;Berjuang secara akademik
+MHS0597;Manajemen;21;Uang kuliah lancar;8;583;D;Berjuang secara akademik
+MHS0469;Pariwisata;22;Uang kuliah lancar;7;583;D;Berjuang secara akademik
+MHS0548;Manajemen;19;Uang kuliah lancar;5;583;D;Berjuang secara akademik
+MHS0567;Manajemen;20;Uang kuliah lancar;9;583;D;Berjuang secara akademik
+MHS0542;Manajemen;20;Uang kuliah lancar;8;583;D;Berjuang secara akademik
+MHS0076;Manajemen;20;Uang kuliah lancar;5;583;D;Berjuang secara akademik
+MHS0715;Manajemen;19;Uang kuliah lancar;6;583;D;Berjuang secara akademik
+MHS0452;Agronomi;19;Uang kuliah lancar;7;583;D;Berjuang secara akademik
+MHS0406;Manajemen;22;Uang kuliah lancar;7;584;D;Berjuang secara akademik
+MHS0377;Animasi dan Desain Multimedia;18;Uang kuliah lancar;0;584;D;Menghilang dari kelas
+MHS0505;Animasi dan Desain Multimedia;18;Uang kuliah lancar;0;584;D;Menghilang dari kelas
+MHS0105;Manajemen kelas malam;28;Uang kuliah lancar;10;584;D;Berjuang secara akademik
+MHS0790;Pendidikan Dasar;21;Uang kuliah lancar;8;584;D;Berjuang secara akademik
+MHS0748;Pendidikan Dasar;20;Uang kuliah lancar;7;584;D;Berjuang secara akademik
+MHS0078;Higiene Gigi;18;Uang kuliah lancar;1;584;D;Menghilang dari kelas
+MHS0175;Perawat Hewan;22;Uang kuliah lancar;7;585;D;Berjuang secara akademik
+MHS0491;Manajemen;19;Uang kuliah lancar;7;585;D;Berjuang secara akademik
+MHS0278;Manajemen;19;Uang kuliah lancar;6;585;D;Berjuang secara akademik
+MHS0395;Keperawatan;21;Uang kuliah lancar;0;585;D;Menghilang dari kelas
+MHS0343;Desain Komunikasi Visual;18;Uang kuliah tertunggak;10;585;D;Berjuang secara akademik
+MHS0603;Teknik Informatika;20;Uang kuliah lancar;4;585;D;Berjuang secara akademik
+MHS0614;Pendidikan Dasar;19;Uang kuliah lancar;10;586;D;Berjuang secara akademik
+MHS0651;Peternakan Kuda;19;Uang kuliah lancar;7;586;D;Berjuang secara akademik
+MHS0215;Pariwisata;26;Uang kuliah lancar;7;586;D;Berjuang secara akademik
+MHS0466;Manajemen;23;Uang kuliah lancar;3;586;D;Berjuang secara akademik
+MHS0381;Desain Komunikasi Visual;19;Uang kuliah lancar;7;586;D;Berjuang secara akademik
+MHS0537;Manajemen Iklan dan Pemasaran;35;Uang kuliah lancar;8;586;D;Berjuang secara akademik
+MHS0362;Pendidikan Dasar;19;Uang kuliah lancar;10;586;D;Berjuang secara akademik
+MHS0318;Manajemen;19;Uang kuliah lancar;6;586;D;Berjuang secara akademik
+MHS0272;Manajemen kelas malam;28;Uang kuliah lancar;8;587;D;Berjuang secara akademik
+MHS0670;Pariwisata;19;Uang kuliah lancar;7;587;D;Berjuang secara akademik
+MHS0680;Pendidikan Dasar;23;Uang kuliah lancar;10;587;D;Berjuang secara akademik
+MHS0250;Manajemen;18;Uang kuliah lancar;9;587;D;Berjuang secara akademik
+MHS0259;Animasi dan Desain Multimedia;20;Uang kuliah lancar;0;587;D;Menghilang dari kelas
+MHS0624;Keperawatan;28;Uang kuliah lancar;9;587;D;Berjuang secara akademik
+MHS0639;Manajemen kelas malam;39;Uang kuliah lancar;8;587;D;Berjuang secara akademik
+MHS0316;Pariwisata;19;Uang kuliah lancar;8;587;D;Berjuang secara akademik
+MHS0098;Teknik Informatika;25;Uang kuliah lancar;7;587;D;Berjuang secara akademik
+MHS0068;Kerja Sosial;19;Uang kuliah lancar;6;588;D;Berjuang secara akademik
+MHS0751;Perawat Hewan;27;Uang kuliah lancar;11;588;D;Berjuang secara akademik
+MHS0593;Desain Komunikasi Visual;31;Uang kuliah lancar;11;588;D;Berjuang secara akademik
+MHS0385;Teknik Informatika;19;Uang kuliah lancar;8;588;D;Berjuang secara akademik
+MHS0209;Perawat Hewan;19;Uang kuliah lancar;4;588;D;Berjuang secara akademik
+MHS0339;Pendidikan Dasar;19;Uang kuliah lancar;10;588;D;Berjuang secara akademik
+MHS0331;Pariwisata;19;Uang kuliah lancar;7;588;D;Berjuang secara akademik
+MHS0327;Perawat Hewan;21;Uang kuliah lancar;5;588;D;Berjuang secara akademik
+MHS0347;Keperawatan;20;Uang kuliah lancar;0;589;D;Menghilang dari kelas
+MHS0623;Manajemen kelas malam;24;Uang kuliah lancar;10;589;D;Berjuang secara akademik
+MHS0350;Kerja Sosial;20;Uang kuliah lancar;11;589;D;Berjuang secara akademik
+MHS0669;Peternakan Kuda;33;Uang kuliah lancar;4;589;D;Berjuang secara akademik
+MHS0712;Manajemen;36;Uang kuliah lancar;7;589;D;Berjuang secara akademik
+MHS0018;Pariwisata;18;Uang kuliah lancar;8;589;D;Berjuang secara akademik
+MHS0576;Manajemen;21;Uang kuliah lancar;6;590;D;Berjuang secara akademik
+MHS0217;Perawat Hewan;19;Uang kuliah lancar;7;590;D;Berjuang secara akademik
+MHS0762;Manajemen;20;Uang kuliah lancar;7;590;D;Berjuang secara akademik
+MHS0032;Pendidikan Dasar;18;Uang kuliah lancar;8;590;D;Berjuang secara akademik
+MHS0719;Kerja Sosial;21;Uang kuliah lancar;6;590;D;Berjuang secara akademik
+MHS0627;Manajemen;20;Uang kuliah lancar;6;590;D;Berjuang secara akademik
+MHS0184;Pendidikan Dasar;18;Uang kuliah lancar;7;590;D;Berjuang secara akademik
+MHS0297;Teknik Informatika;18;Uang kuliah lancar;5;590;D;Berjuang secara akademik
+MHS0223;Pendidikan Dasar;19;Uang kuliah lancar;10;591;D;Berjuang secara akademik
+MHS0663;Perawat Hewan;26;Uang kuliah lancar;7;591;D;Berjuang secara akademik
+MHS0210;Manajemen kelas malam;23;Uang kuliah lancar;13;592;D;Berjuang secara akademik
+MHS0081;Manajemen;19;Uang kuliah lancar;9;592;D;Berjuang secara akademik
+MHS0190;Manajemen;19;Uang kuliah lancar;7;592;D;Berjuang secara akademik
+MHS0423;Peternakan Kuda;24;Uang kuliah lancar;7;592;D;Berjuang secara akademik
+MHS0607;Manajemen;19;Uang kuliah lancar;7;592;D;Berjuang secara akademik
+MHS0676;Pariwisata;21;Uang kuliah lancar;7;592;D;Berjuang secara akademik
+MHS0732;Manajemen;19;Uang kuliah lancar;9;592;D;Berjuang secara akademik
+MHS0367;Perawat Hewan;18;Uang kuliah lancar;5;592;D;Berjuang secara akademik
+MHS0763;Kerja Sosial;22;Uang kuliah lancar;7;592;D;Berjuang secara akademik
+MHS0014;Desain Komunikasi Visual;19;Uang kuliah lancar;6;592;D;Berjuang secara akademik
+MHS0595;Animasi dan Desain Multimedia;19;Uang kuliah lancar;7;593;D;Berjuang secara akademik
+MHS0522;Perawat Hewan;25;Uang kuliah lancar;5;593;D;Berjuang secara akademik
+MHS0049;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;8;594;D;Berjuang secara akademik
+MHS0661;Kerja Sosial;21;Uang kuliah lancar;5;594;D;Berjuang secara akademik
+MHS0115;Manajemen;18;Uang kuliah lancar;5;594;D;Berjuang secara akademik
+MHS0518;Manajemen;18;Uang kuliah lancar;9;594;D;Berjuang secara akademik
+MHS0509;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;7;594;D;Berjuang secara akademik
+MHS0521;Manajemen;50;Uang kuliah lancar;8;594;D;Berjuang secara akademik
+MHS0277;Manajemen;18;Uang kuliah lancar;6;594;D;Berjuang secara akademik
+MHS0082;Kerja Sosial;20;Uang kuliah lancar;9;594;D;Berjuang secara akademik
+MHS0160;Kerja Sosial;20;Uang kuliah lancar;7;594;D;Berjuang secara akademik
+MHS0070;Perawat Hewan;21;Uang kuliah lancar;5;594;D;Berjuang secara akademik
+MHS0252;Teknik Informatika;20;Uang kuliah lancar;6;594;D;Berjuang secara akademik
+MHS0789;Manajemen;18;Uang kuliah lancar;9;594;D;Berjuang secara akademik
+MHS0131;Manajemen Iklan dan Pemasaran;18;Uang kuliah lancar;9;595;D;Berjuang secara akademik
+MHS0120;Perawat Hewan;23;Uang kuliah tertunggak;15;595;D;Terhalang biaya
+MHS0311;Pariwisata;26;Uang kuliah tertunggak;14;595;D;Terhalang biaya
+MHS0231;Perawat Hewan;21;Uang kuliah lancar;7;595;D;Berjuang secara akademik
+MHS0529;Kerja Sosial;22;Uang kuliah lancar;13;595;D;Berjuang secara akademik
+MHS0058;Kerja Sosial kelas malam;20;Uang kuliah lancar;9;595;D;Berjuang secara akademik
+MHS0289;Perawat Hewan;20;Uang kuliah lancar;6;595;D;Berjuang secara akademik
+MHS0772;Perawat Hewan;21;Uang kuliah lancar;3;595;D;Berjuang secara akademik
+MHS0338;Perawat Hewan;21;Uang kuliah lancar;6;595;D;Berjuang secara akademik
+MHS0282;Pariwisata;18;Uang kuliah lancar;8;596;D;Berjuang secara akademik
+MHS0702;Manajemen;35;Uang kuliah lancar;8;596;D;Berjuang secara akademik
+MHS0426;Jurnalistik dan Komunikasi;22;Uang kuliah lancar;8;596;D;Berjuang secara akademik
+MHS0112;Perawat Hewan;19;Uang kuliah lancar;9;596;D;Berjuang secara akademik
+MHS0541;Pariwisata;18;Uang kuliah lancar;9;596;D;Berjuang secara akademik
+MHS0104;Manajemen;20;Uang kuliah lancar;8;597;D;Berjuang secara akademik
+MHS0340;Manajemen Iklan dan Pemasaran;20;Uang kuliah lancar;10;597;D;Berjuang secara akademik
+MHS0342;Pendidikan Dasar;18;Uang kuliah lancar;8;597;D;Berjuang secara akademik
+MHS0052;Pendidikan Dasar;18;Uang kuliah lancar;10;597;D;Berjuang secara akademik
+MHS0792;Desain Komunikasi Visual;20;Uang kuliah lancar;6;597;D;Berjuang secara akademik
+MHS0178;Pendidikan Dasar;18;Uang kuliah lancar;10;597;D;Berjuang secara akademik
+MHS0420;Agronomi;20;Uang kuliah lancar;11;597;D;Berjuang secara akademik
+MHS0071;Keperawatan;26;Uang kuliah lancar;10;598;D;Berjuang secara akademik
+MHS0713;Keperawatan;20;Uang kuliah lancar;0;598;D;Berjuang secara akademik
+MHS0653;Teknik Informatika;18;Uang kuliah lancar;8;598;D;Berjuang secara akademik
+MHS0261;Agronomi;39;Uang kuliah lancar;5;598;D;Berjuang secara akademik
+MHS0784;Kerja Sosial;18;Uang kuliah lancar;8;598;D;Berjuang secara akademik
+MHS0445;Jurnalistik dan Komunikasi;20;Uang kuliah lancar;7;598;D;Berjuang secara akademik
+MHS0315;Agronomi;25;Uang kuliah lancar;9;598;D;Berjuang secara akademik
+MHS0578;Agronomi;23;Uang kuliah lancar;10;598;D;Berjuang secara akademik
+MHS0438;Manajemen;27;Uang kuliah lancar;4;598;D;Berjuang secara akademik
+MHS0337;Desain Komunikasi Visual;19;Uang kuliah lancar;5;599;C;Tidak dipanggil
+MHS0544;Manajemen;19;Uang kuliah lancar;6;599;C;Tidak dipanggil
+MHS0666;Perawat Hewan;20;Uang kuliah lancar;6;599;C;Tidak dipanggil
+MHS0481;Pariwisata;27;Uang kuliah lancar;10;599;C;Tidak dipanggil
+MHS0473;Manajemen kelas malam;28;Uang kuliah lancar;9;599;C;Tidak dipanggil
+MHS0553;Manajemen Iklan dan Pemasaran;20;Uang kuliah lancar;10;599;C;Tidak dipanggil
+MHS0714;Jurnalistik dan Komunikasi;40;Uang kuliah lancar;10;599;C;Tidak dipanggil
+MHS0400;Desain Komunikasi Visual;19;Uang kuliah lancar;8;599;C;Tidak dipanggil
+MHS0794;Teknologi Bahan Bakar Nabati;25;Uang kuliah lancar;7;599;C;Tidak dipanggil
+MHS0212;Kerja Sosial kelas malam;24;Uang kuliah lancar;8;600;C;Tidak dipanggil
+MHS0439;Teknik Informatika;18;Uang kuliah lancar;5;600;C;Tidak dipanggil
+MHS0428;Jurnalistik dan Komunikasi;22;Uang kuliah lancar;6;600;C;Tidak dipanggil
+MHS0711;Pariwisata;22;Uang kuliah lancar;6;600;C;Tidak dipanggil
+MHS0659;Kerja Sosial;20;Uang kuliah lancar;2;600;C;Tidak dipanggil
+MHS0501;Kerja Sosial kelas malam;26;Uang kuliah lancar;6;600;C;Tidak dipanggil
+MHS0723;Animasi dan Desain Multimedia;22;Uang kuliah lancar;23;600;C;Tidak dipanggil
+MHS0119;Kerja Sosial;21;Uang kuliah lancar;6;601;C;Tidak dipanggil
+MHS0749;Kerja Sosial;18;Uang kuliah lancar;4;601;C;Tidak dipanggil
+MHS0525;Manajemen;41;Uang kuliah lancar;9;601;C;Tidak dipanggil
+MHS0092;Desain Komunikasi Visual;18;Uang kuliah lancar;4;601;C;Tidak dipanggil
+MHS0248;Pariwisata;20;Uang kuliah lancar;11;601;C;Tidak dipanggil
+MHS0693;Kerja Sosial;20;Uang kuliah lancar;7;601;C;Tidak dipanggil
+MHS0243;Teknik Informatika;20;Uang kuliah lancar;8;601;C;Tidak dipanggil
+MHS0246;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;5;601;C;Tidak dipanggil
+MHS0483;Teknik Informatika;20;Uang kuliah lancar;8;601;C;Tidak dipanggil
+MHS0279;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;8;601;C;Tidak dipanggil
+MHS0636;Manajemen kelas malam;34;Uang kuliah lancar;10;602;C;Tidak dipanggil
+MHS0754;Perawat Hewan;19;Uang kuliah lancar;7;602;C;Tidak dipanggil
+MHS0363;Perawat Hewan;21;Uang kuliah lancar;8;602;C;Tidak dipanggil
+MHS0332;Manajemen kelas malam;27;Uang kuliah lancar;4;602;C;Tidak dipanggil
+MHS0095;Manajemen;20;Uang kuliah lancar;7;602;C;Tidak dipanggil
+MHS0329;Keperawatan;39;Uang kuliah lancar;10;603;C;Tidak dipanggil
+MHS0288;Manajemen kelas malam;27;Uang kuliah lancar;10;603;C;Tidak dipanggil
+MHS0164;Manajemen;18;Uang kuliah lancar;3;603;C;Tidak dipanggil
+MHS0739;Pariwisata;18;Uang kuliah lancar;10;603;C;Tidak dipanggil
+MHS0137;Peternakan Kuda;20;Uang kuliah lancar;8;603;C;Tidak dipanggil
+MHS0432;Teknik Informatika;18;Uang kuliah lancar;7;603;C;Tidak dipanggil
+MHS0074;Jurnalistik dan Komunikasi;19;Uang kuliah lancar;7;604;C;Tidak dipanggil
+MHS0717;Manajemen kelas malam;38;Uang kuliah lancar;10;604;C;Tidak dipanggil
+MHS0605;Manajemen kelas malam;26;Uang kuliah lancar;5;604;C;Tidak dipanggil
+MHS0234;Jurnalistik dan Komunikasi;19;Uang kuliah lancar;10;604;C;Tidak dipanggil
+MHS0547;Perawat Hewan;19;Uang kuliah lancar;7;604;C;Tidak dipanggil
+MHS0704;Jurnalistik dan Komunikasi;20;Uang kuliah lancar;11;604;C;Tidak dipanggil
+MHS0407;Teknik Informatika;19;Uang kuliah lancar;10;604;C;Tidak dipanggil
+MHS0760;Kerja Sosial kelas malam;45;Uang kuliah lancar;10;604;C;Tidak dipanggil
+MHS0321;Teknik Informatika;19;Uang kuliah lancar;8;605;C;Tidak dipanggil
+MHS0345;Kerja Sosial;18;Uang kuliah lancar;7;605;C;Tidak dipanggil
+MHS0302;Peternakan Kuda;20;Uang kuliah lancar;8;605;C;Tidak dipanggil
+MHS0424;Agronomi;21;Uang kuliah lancar;19;605;C;Tidak dipanggil
+MHS0582;Perawat Hewan;23;Uang kuliah lancar;8;605;C;Tidak dipanggil
+MHS0051;Perawat Hewan;19;Uang kuliah lancar;6;605;C;Tidak dipanggil
+MHS0169;Teknik Informatika;18;Uang kuliah lancar;4;605;C;Tidak dipanggil
+MHS0121;Kerja Sosial;19;Uang kuliah lancar;8;606;C;Tidak dipanggil
+MHS0348;Perawat Hewan;18;Uang kuliah lancar;8;606;C;Tidak dipanggil
+MHS0404;Teknik Informatika;23;Uang kuliah lancar;4;606;C;Tidak dipanggil
+MHS0532;Kerja Sosial kelas malam;48;Uang kuliah lancar;11;607;C;Tidak dipanggil
+MHS0009;Manajemen kelas malam;24;Uang kuliah lancar;5;607;C;Tidak dipanggil
+MHS0195;Manajemen;19;Uang kuliah lancar;6;607;C;Tidak dipanggil
+MHS0069;Pendidikan Dasar;22;Uang kuliah lancar;10;607;C;Tidak dipanggil
+MHS0159;Pariwisata;21;Uang kuliah lancar;10;608;C;Tidak dipanggil
+MHS0004;Kerja Sosial;18;Uang kuliah lancar;9;608;C;Tidak dipanggil
+MHS0771;Teknik Informatika;18;Uang kuliah lancar;7;608;C;Tidak dipanggil
+MHS0524;Kerja Sosial kelas malam;48;Uang kuliah lancar;9;608;C;Tidak dipanggil
+MHS0499;Agronomi;20;Uang kuliah lancar;8;608;C;Tidak dipanggil
+MHS0462;Manajemen;21;Uang kuliah lancar;6;608;C;Tidak dipanggil
+MHS0026;Kerja Sosial;20;Uang kuliah lancar;6;608;C;Tidak dipanggil
+MHS0555;Manajemen;33;Uang kuliah lancar;10;609;C;Tidak dipanggil
+MHS0667;Agronomi;43;Uang kuliah lancar;11;609;C;Tidak dipanggil
+MHS0652;Agronomi;22;Uang kuliah lancar;6;609;C;Tidak dipanggil
+MHS0608;Perawat Hewan;19;Uang kuliah lancar;5;609;C;Tidak dipanggil
+MHS0675;Teknik Informatika;24;Uang kuliah lancar;9;609;C;Tidak dipanggil
+MHS0056;Manajemen;26;Uang kuliah lancar;6;609;C;Tidak dipanggil
+MHS0755;Perawat Hewan;20;Uang kuliah lancar;10;610;C;Tidak dipanggil
+MHS0562;Kerja Sosial;21;Uang kuliah lancar;9;610;C;Tidak dipanggil
+MHS0665;Perawat Hewan;20;Uang kuliah lancar;11;610;C;Tidak dipanggil
+MHS0153;Higiene Gigi;23;Uang kuliah lancar;7;610;C;Tidak dipanggil
+MHS0384;Manajemen;22;Uang kuliah lancar;6;610;C;Tidak dipanggil
+MHS0090;Keperawatan;27;Uang kuliah lancar;7;610;C;Tidak dipanggil
+MHS0101;Manajemen;20;Uang kuliah lancar;6;610;C;Tidak dipanggil
+MHS0684;Agronomi;20;Uang kuliah lancar;6;610;C;Tidak dipanggil
+MHS0380;Manajemen;20;Uang kuliah lancar;6;610;C;Tidak dipanggil
+MHS0053;Perawat Hewan;18;Uang kuliah lancar;10;611;C;Tidak dipanggil
+MHS0103;Peternakan Kuda;20;Uang kuliah lancar;5;611;C;Tidak dipanggil
+MHS0677;Teknik Informatika;28;Uang kuliah lancar;8;611;C;Tidak dipanggil
+MHS0412;Teknik Informatika;20;Uang kuliah lancar;10;611;C;Tidak dipanggil
+MHS0775;Agronomi;28;Uang kuliah lancar;14;611;C;Tidak dipanggil
+MHS0107;Keperawatan;19;Uang kuliah lancar;9;611;C;Tidak dipanggil
+MHS0664;Manajemen Iklan dan Pemasaran;21;Uang kuliah lancar;9;611;C;Tidak dipanggil
+MHS0021;Teknik Informatika;19;Uang kuliah lancar;8;611;C;Tidak dipanggil
+MHS0750;Manajemen;18;Uang kuliah lancar;2;612;C;Tidak dipanggil
+MHS0435;Keperawatan;34;Uang kuliah lancar;10;612;C;Tidak dipanggil
+MHS0283;Agronomi;20;Uang kuliah lancar;19;612;C;Tidak dipanggil
+MHS0293;Teknik Informatika;19;Uang kuliah lancar;5;613;C;Tidak dipanggil
+MHS0531;Manajemen kelas malam;36;Uang kuliah lancar;23;613;C;Tidak dipanggil
+MHS0206;Perawat Hewan;21;Uang kuliah lancar;13;613;C;Tidak dipanggil
+MHS0730;Manajemen kelas malam;33;Uang kuliah lancar;17;613;C;Tidak dipanggil
+MHS0620;Manajemen kelas malam;29;Uang kuliah lancar;17;613;C;Tidak dipanggil
+MHS0747;Manajemen kelas malam;21;Uang kuliah lancar;8;613;C;Tidak dipanggil
+MHS0366;Desain Komunikasi Visual;18;Uang kuliah lancar;5;613;C;Tidak dipanggil
+MHS0572;Desain Komunikasi Visual;20;Uang kuliah lancar;5;613;C;Tidak dipanggil
+MHS0094;Manajemen;19;Uang kuliah lancar;6;614;C;Tidak dipanggil
+MHS0701;Pariwisata;20;Uang kuliah lancar;7;614;C;Tidak dipanggil
+MHS0373;Perawat Hewan;21;Uang kuliah lancar;8;614;C;Tidak dipanggil
+MHS0492;Perawat Hewan;21;Uang kuliah lancar;7;614;C;Tidak dipanggil
+MHS0728;Pariwisata;19;Uang kuliah lancar;8;614;C;Tidak dipanggil
+MHS0734;Perawat Hewan;18;Uang kuliah tertunggak;12;614;C;Tidak dipanggil
+MHS0230;Manajemen;18;Uang kuliah lancar;9;614;C;Tidak dipanggil
+MHS0679;Perawat Hewan;20;Uang kuliah lancar;9;614;C;Tidak dipanggil
+MHS0219;Manajemen;18;Uang kuliah lancar;6;614;C;Tidak dipanggil
+MHS0249;Teknik Informatika;21;Uang kuliah lancar;8;614;C;Tidak dipanggil
+MHS0413;Teknik Informatika;18;Uang kuliah lancar;7;615;C;Tidak dipanggil
+MHS0334;Teknik Informatika;41;Uang kuliah lancar;11;615;C;Tidak dipanggil
+MHS0364;Jurnalistik dan Komunikasi;21;Uang kuliah lancar;10;615;C;Tidak dipanggil
+MHS0496;Kerja Sosial;18;Uang kuliah lancar;5;615;C;Tidak dipanggil
+MHS0526;Manajemen kelas malam;28;Uang kuliah lancar;15;615;C;Tidak dipanggil
+MHS0111;Manajemen;20;Uang kuliah lancar;9;615;C;Tidak dipanggil
+MHS0088;Perawat Hewan;20;Uang kuliah lancar;8;615;C;Tidak dipanggil
+MHS0147;Manajemen;21;Uang kuliah lancar;8;615;C;Tidak dipanggil
+MHS0128;Manajemen kelas malam;37;Uang kuliah lancar;10;615;C;Tidak dipanggil
+MHS0431;Agronomi;24;Uang kuliah lancar;12;616;C;Tidak dipanggil
+MHS0706;Animasi dan Desain Multimedia;21;Uang kuliah lancar;20;616;C;Tidak dipanggil
+MHS0162;Kerja Sosial kelas malam;37;Uang kuliah lancar;13;616;C;Tidak dipanggil
+MHS0561;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;7;616;C;Tidak dipanggil
+MHS0307;Desain Komunikasi Visual;20;Uang kuliah lancar;9;617;C;Tidak dipanggil
+MHS0779;Manajemen;21;Uang kuliah lancar;5;617;C;Tidak dipanggil
+MHS0405;Desain Komunikasi Visual;18;Uang kuliah lancar;11;617;C;Tidak dipanggil
+MHS0099;Manajemen Iklan dan Pemasaran;22;Uang kuliah lancar;8;617;C;Tidak dipanggil
+MHS0584;Manajemen Iklan dan Pemasaran;22;Uang kuliah lancar;7;617;C;Tidak dipanggil
+MHS0604;Manajemen;21;Uang kuliah lancar;9;617;C;Tidak dipanggil
+MHS0444;Manajemen;20;Uang kuliah lancar;5;617;C;Tidak dipanggil
+MHS0124;Pendidikan Dasar;18;Uang kuliah lancar;9;617;C;Tidak dipanggil
+MHS0368;Perawat Hewan;19;Uang kuliah lancar;4;618;C;Tidak dipanggil
+MHS0133;Animasi dan Desain Multimedia;19;Uang kuliah lancar;21;618;C;Tidak dipanggil
+MHS0109;Agronomi;20;Uang kuliah lancar;11;619;C;Tidak dipanggil
+MHS0189;Kerja Sosial;24;Uang kuliah lancar;9;619;C;Tidak dipanggil
+MHS0766;Manajemen Iklan dan Pemasaran;21;Uang kuliah lancar;7;619;C;Tidak dipanggil
+MHS0643;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;11;619;C;Tidak dipanggil
+MHS0176;Pendidikan Dasar;18;Uang kuliah lancar;8;619;C;Tidak dipanggil
+MHS0296;Manajemen;19;Uang kuliah lancar;9;619;C;Tidak dipanggil
+MHS0298;Manajemen;19;Uang kuliah lancar;8;619;C;Tidak dipanggil
+MHS0303;Kerja Sosial kelas malam;44;Uang kuliah lancar;18;620;C;Tidak dipanggil
+MHS0478;Keperawatan;43;Uang kuliah lancar;14;620;C;Tidak dipanggil
+MHS0657;Teknik Informatika;24;Uang kuliah lancar;13;620;C;Tidak dipanggil
+MHS0577;Manajemen kelas malam;24;Uang kuliah lancar;16;620;C;Tidak dipanggil
+MHS0671;Desain Komunikasi Visual;18;Uang kuliah lancar;11;620;C;Tidak dipanggil
+MHS0506;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;9;620;C;Tidak dipanggil
+MHS0685;Agronomi;19;Uang kuliah lancar;11;620;C;Tidak dipanggil
+MHS0681;Perawat Hewan;23;Uang kuliah lancar;6;620;C;Tidak dipanggil
+MHS0414;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;8;620;C;Tidak dipanggil
+MHS0574;Keperawatan;19;Uang kuliah lancar;10;620;C;Tidak dipanggil
+MHS0468;Pendidikan Dasar;18;Uang kuliah lancar;10;620;C;Tidak dipanggil
+MHS0165;Keperawatan;34;Uang kuliah lancar;14;620;C;Tidak dipanggil
+MHS0768;Desain Komunikasi Visual;18;Uang kuliah lancar;7;620;C;Tidak dipanggil
+MHS0048;Agronomi;24;Uang kuliah lancar;11;620;C;Tidak dipanggil
+MHS0633;Peternakan Kuda;20;Uang kuliah lancar;7;620;C;Tidak dipanggil
+MHS0625;Keperawatan;38;Uang kuliah lancar;10;620;C;Tidak dipanggil
+MHS0116;Manajemen;18;Uang kuliah lancar;5;621;C;Tidak dipanggil
+MHS0191;Manajemen;19;Uang kuliah lancar;8;621;C;Tidak dipanggil
+MHS0275;Manajemen;18;Uang kuliah lancar;8;621;C;Tidak dipanggil
+MHS0710;Pariwisata;19;Uang kuliah lancar;8;621;C;Tidak dipanggil
+MHS0247;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;7;621;C;Tidak dipanggil
+MHS0527;Manajemen;53;Uang kuliah lancar;27;621;C;Tidak dipanggil
+MHS0305;Pariwisata;19;Uang kuliah lancar;7;621;C;Tidak dipanggil
+MHS0254;Agronomi;28;Uang kuliah lancar;11;622;C;Tidak dipanggil
+MHS0180;Pendidikan Dasar;19;Uang kuliah lancar;9;622;C;Tidak dipanggil
+MHS0129;Manajemen Iklan dan Pemasaran;18;Uang kuliah lancar;10;622;C;Tidak dipanggil
+MHS0181;Desain Komunikasi Visual;21;Uang kuliah lancar;9;622;C;Tidak dipanggil
+MHS0244;Manajemen;20;Uang kuliah lancar;9;622;C;Tidak dipanggil
+MHS0539;Perawat Hewan;18;Uang kuliah lancar;7;622;C;Tidak dipanggil
+MHS0451;Peternakan Kuda;19;Uang kuliah lancar;10;622;C;Tidak dipanggil
+MHS0409;Desain Komunikasi Visual;38;Uang kuliah lancar;9;622;C;Tidak dipanggil
+MHS0204;Kerja Sosial;20;Uang kuliah lancar;9;623;C;Tidak dipanggil
+MHS0402;Desain Komunikasi Visual;20;Uang kuliah lancar;10;623;C;Tidak dipanggil
+MHS0472;Manajemen;18;Uang kuliah lancar;8;623;C;Tidak dipanggil
+MHS0072;Desain Komunikasi Visual;18;Uang kuliah lancar;9;623;C;Tidak dipanggil
+MHS0091;Teknologi Bahan Bakar Nabati;26;Uang kuliah lancar;12;623;C;Tidak dipanggil
+MHS0568;Peternakan Kuda;20;Uang kuliah lancar;6;623;C;Tidak dipanggil
+MHS0354;Manajemen Iklan dan Pemasaran;18;Uang kuliah lancar;9;623;C;Tidak dipanggil
+MHS0429;Jurnalistik dan Komunikasi;19;Uang kuliah lancar;10;624;C;Tidak dipanggil
+MHS0055;Perawat Hewan;19;Uang kuliah lancar;7;624;C;Tidak dipanggil
+MHS0139;Perawat Hewan;19;Uang kuliah lancar;8;624;C;Tidak dipanggil
+MHS0581;Kerja Sosial kelas malam;23;Uang kuliah lancar;16;624;C;Tidak dipanggil
+MHS0446;Manajemen;19;Uang kuliah lancar;7;624;C;Tidak dipanggil
+MHS0464;Pendidikan Dasar;18;Uang kuliah lancar;10;624;C;Tidak dipanggil
+MHS0306;Agronomi;21;Uang kuliah lancar;11;624;C;Tidak dipanggil
+MHS0267;Peternakan Kuda;21;Uang kuliah lancar;9;624;C;Tidak dipanggil
+MHS0565;Pendidikan Dasar;19;Uang kuliah lancar;9;624;C;Tidak dipanggil
+MHS0486;Keperawatan;30;Uang kuliah lancar;10;624;C;Tidak dipanggil
+MHS0500;Kerja Sosial kelas malam;45;Uang kuliah lancar;14;624;C;Tidak dipanggil
+MHS0356;Pariwisata;21;Uang kuliah lancar;10;624;C;Tidak dipanggil
+MHS0447;Keperawatan;18;Uang kuliah lancar;9;624;C;Tidak dipanggil
+MHS0467;Perawat Hewan;21;Uang kuliah lancar;6;625;C;Tidak dipanggil
+MHS0203;Agronomi;37;Uang kuliah lancar;12;625;C;Tidak dipanggil
+MHS0197;Manajemen;19;Uang kuliah lancar;8;626;C;Tidak dipanggil
+MHS0722;Agronomi;22;Uang kuliah lancar;10;626;C;Tidak dipanggil
+MHS0780;Jurnalistik dan Komunikasi;20;Uang kuliah lancar;2;626;C;Tidak dipanggil
+MHS0317;Manajemen Iklan dan Pemasaran;21;Uang kuliah lancar;10;626;C;Tidak dipanggil
+MHS0235;Jurnalistik dan Komunikasi;19;Uang kuliah lancar;7;626;C;Tidak dipanggil
+MHS0024;Manajemen;18;Uang kuliah lancar;6;626;C;Tidak dipanggil
+MHS0066;Perawat Hewan;21;Uang kuliah lancar;7;626;C;Tidak dipanggil
+MHS0622;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;8;626;C;Tidak dipanggil
+MHS0108;Manajemen Iklan dan Pemasaran;20;Uang kuliah lancar;9;627;C;Tidak dipanggil
+MHS0064;Kerja Sosial kelas malam;42;Uang kuliah lancar;20;627;C;Tidak dipanggil
+MHS0065;Pendidikan Dasar;18;Uang kuliah tertunggak;13;627;C;Tidak dipanggil
+MHS0740;Higiene Gigi;24;Uang kuliah lancar;12;627;C;Tidak dipanggil
+MHS0113;Pendidikan Dasar;19;Uang kuliah lancar;9;627;C;Tidak dipanggil
+MHS0560;Perawat Hewan;21;Uang kuliah lancar;6;627;C;Tidak dipanggil
+MHS0023;Pendidikan Dasar;20;Uang kuliah lancar;9;627;C;Tidak dipanggil
+MHS0285;Perawat Hewan;18;Uang kuliah lancar;10;627;C;Tidak dipanggil
+MHS0588;Manajemen;30;Uang kuliah lancar;18;628;C;Tidak dipanggil
+MHS0559;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;10;628;C;Tidak dipanggil
+MHS0222;Kerja Sosial;20;Uang kuliah lancar;7;628;C;Tidak dipanggil
+MHS0534;Keperawatan;19;Uang kuliah lancar;2;628;C;Tidak dipanggil
+MHS0185;Manajemen;21;Uang kuliah lancar;13;628;C;Tidak dipanggil
+MHS0673;Manajemen;20;Uang kuliah lancar;4;629;C;Tidak dipanggil
+MHS0323;Agronomi;24;Uang kuliah lancar;12;629;C;Tidak dipanggil
+MHS0220;Perawat Hewan;21;Uang kuliah lancar;6;629;C;Tidak dipanggil
+MHS0690;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;10;629;C;Tidak dipanggil
+MHS0737;Perawat Hewan;19;Uang kuliah lancar;7;629;C;Tidak dipanggil
+MHS0237;Peternakan Kuda;18;Uang kuliah lancar;9;630;C;Tidak dipanggil
+MHS0019;Manajemen;23;Uang kuliah lancar;9;630;C;Tidak dipanggil
+MHS0228;Kerja Sosial;20;Uang kuliah lancar;10;630;C;Tidak dipanggil
+MHS0703;Kerja Sosial;22;Uang kuliah lancar;7;631;C;Tidak dipanggil
+MHS0427;Manajemen;18;Uang kuliah lancar;5;631;C;Tidak dipanggil
+MHS0341;Perawat Hewan;20;Uang kuliah lancar;7;631;C;Tidak dipanggil
+MHS0221;Perawat Hewan;18;Uang kuliah lancar;7;631;C;Tidak dipanggil
+MHS0003;Higiene Gigi;20;Uang kuliah lancar;15;631;C;Tidak dipanggil
+MHS0769;Perawat Hewan;18;Uang kuliah lancar;6;631;C;Tidak dipanggil
+MHS0294;Jurnalistik dan Komunikasi;19;Uang kuliah lancar;7;631;C;Tidak dipanggil
+MHS0695;Kerja Sosial;19;Uang kuliah lancar;8;632;C;Tidak dipanggil
+MHS0672;Manajemen;21;Uang kuliah lancar;8;632;C;Tidak dipanggil
+MHS0389;Pariwisata;19;Uang kuliah lancar;6;633;C;Tidak dipanggil
+MHS0043;Desain Komunikasi Visual;19;Uang kuliah lancar;10;633;C;Tidak dipanggil
+MHS0084;Kerja Sosial;21;Uang kuliah lancar;10;633;C;Tidak dipanggil
+MHS0359;Keperawatan;22;Uang kuliah lancar;7;633;C;Tidak dipanggil
+MHS0442;Pariwisata;23;Uang kuliah lancar;11;633;C;Tidak dipanggil
+MHS0266;Teknologi Bahan Bakar Nabati;20;Uang kuliah lancar;11;633;C;Tidak dipanggil
+MHS0705;Manajemen Iklan dan Pemasaran;20;Uang kuliah lancar;6;634;C;Tidak dipanggil
+MHS0239;Kerja Sosial;21;Uang kuliah lancar;7;635;C;Tidak dipanggil
+MHS0011;Jurnalistik dan Komunikasi;20;Uang kuliah lancar;7;636;C;Tidak dipanggil
+MHS0313;Pendidikan Dasar;23;Uang kuliah lancar;9;636;C;Tidak dipanggil
+MHS0516;Keperawatan;19;Uang kuliah lancar;10;636;C;Tidak dipanggil
+MHS0299;Manajemen kelas malam;31;Uang kuliah lancar;11;636;C;Tidak dipanggil
+MHS0770;Pariwisata;25;Uang kuliah lancar;11;636;C;Tidak dipanggil
+MHS0735;Perawat Hewan;19;Uang kuliah lancar;7;636;C;Tidak dipanggil
+MHS0610;Manajemen;19;Uang kuliah lancar;7;636;C;Tidak dipanggil
+MHS0489;Higiene Gigi;25;Uang kuliah lancar;14;636;C;Tidak dipanggil
+MHS0238;Pariwisata;19;Uang kuliah lancar;7;636;C;Tidak dipanggil
+MHS0075;Pariwisata;19;Uang kuliah lancar;10;637;C;Tidak dipanggil
+MHS0192;Manajemen;20;Uang kuliah lancar;7;637;C;Tidak dipanggil
+MHS0096;Teknik Informatika;18;Uang kuliah lancar;10;637;C;Tidak dipanggil
+MHS0551;Manajemen Iklan dan Pemasaran;20;Uang kuliah lancar;10;637;C;Tidak dipanggil
+MHS0263;Manajemen kelas malam;41;Uang kuliah lancar;10;638;C;Tidak dipanggil
+MHS0005;Perawat Hewan;18;Uang kuliah lancar;9;638;C;Tidak dipanggil
+MHS0550;Keperawatan;19;Uang kuliah lancar;10;638;C;Tidak dipanggil
+MHS0155;Perawat Hewan;18;Uang kuliah lancar;9;638;C;Tidak dipanggil
+MHS0571;Pariwisata;21;Uang kuliah lancar;9;638;C;Tidak dipanggil
+MHS0692;Pariwisata;19;Uang kuliah lancar;9;639;C;Tidak dipanggil
+MHS0602;Kerja Sosial kelas malam;26;Uang kuliah lancar;12;639;C;Tidak dipanggil
+MHS0386;Jurnalistik dan Komunikasi;19;Uang kuliah lancar;13;639;C;Tidak dipanggil
+MHS0325;Keperawatan;19;Uang kuliah lancar;9;640;C;Tidak dipanggil
+MHS0149;Keperawatan;20;Uang kuliah tertunggak;14;640;C;Tidak dipanggil
+MHS0142;Pendidikan Dasar;18;Uang kuliah lancar;10;640;C;Tidak dipanggil
+MHS0361;Perawat Hewan;20;Uang kuliah lancar;8;640;C;Tidak dipanggil
+MHS0344;Keperawatan;17;Uang kuliah lancar;10;640;C;Tidak dipanggil
+MHS0198;Keperawatan;32;Uang kuliah lancar;11;640;C;Tidak dipanggil
+MHS0557;Kerja Sosial;19;Uang kuliah lancar;11;640;C;Tidak dipanggil
+MHS0696;Pendidikan Dasar;21;Uang kuliah lancar;13;641;C;Tidak dipanggil
+MHS0240;Pariwisata;18;Uang kuliah lancar;11;641;C;Tidak dipanggil
+MHS0418;Animasi dan Desain Multimedia;23;Uang kuliah lancar;24;641;C;Tidak dipanggil
+MHS0123;Keperawatan;19;Uang kuliah lancar;11;641;C;Tidak dipanggil
+MHS0724;Kerja Sosial kelas malam;20;Uang kuliah lancar;11;642;C;Tidak dipanggil
+MHS0085;Perawat Hewan;20;Uang kuliah lancar;8;642;C;Tidak dipanggil
+MHS0678;Perawat Hewan;28;Uang kuliah lancar;10;642;C;Tidak dipanggil
+MHS0370;Perawat Hewan;18;Uang kuliah lancar;10;642;C;Tidak dipanggil
+MHS0536;Higiene Gigi;28;Uang kuliah lancar;15;643;C;Tidak dipanggil
+MHS0609;Kerja Sosial;21;Uang kuliah lancar;7;644;C;Tidak dipanggil
+MHS0310;Animasi dan Desain Multimedia;19;Uang kuliah lancar;20;645;C;Tidak dipanggil
+MHS0579;Jurnalistik dan Komunikasi;20;Uang kuliah lancar;9;645;C;Tidak dipanggil
+MHS0733;Desain Komunikasi Visual;20;Uang kuliah lancar;9;645;C;Tidak dipanggil
+MHS0388;Pariwisata;18;Uang kuliah lancar;7;645;C;Tidak dipanggil
+MHS0281;Manajemen Iklan dan Pemasaran;21;Uang kuliah lancar;10;645;C;Tidak dipanggil
+MHS0741;Higiene Gigi;22;Uang kuliah lancar;14;645;C;Tidak dipanggil
+MHS0594;Pariwisata;20;Uang kuliah lancar;11;645;C;Tidak dipanggil
+MHS0196;Keperawatan;19;Uang kuliah lancar;10;646;C;Tidak dipanggil
+MHS0022;Perawat Hewan;19;Uang kuliah lancar;10;646;C;Tidak dipanggil
+MHS0376;Desain Komunikasi Visual;18;Uang kuliah lancar;11;646;C;Tidak dipanggil
+MHS0503;Keperawatan;19;Uang kuliah lancar;10;646;C;Tidak dipanggil
+MHS0566;Keperawatan;20;Uang kuliah lancar;11;646;C;Tidak dipanggil
+MHS0216;Manajemen Iklan dan Pemasaran;18;Uang kuliah lancar;9;646;C;Tidak dipanggil
+MHS0284;Jurnalistik dan Komunikasi;18;Uang kuliah lancar;11;647;C;Tidak dipanggil
+MHS0125;Pariwisata;21;Uang kuliah lancar;10;647;C;Tidak dipanggil
+MHS0417;Agronomi;19;Uang kuliah lancar;8;647;C;Tidak dipanggil
+MHS0474;Manajemen Iklan dan Pemasaran;20;Uang kuliah lancar;10;647;C;Tidak dipanggil
+MHS0352;Perawat Hewan;20;Uang kuliah lancar;9;647;C;Tidak dipanggil
+MHS0253;Manajemen Iklan dan Pemasaran;25;Uang kuliah lancar;11;648;C;Tidak dipanggil
+MHS0615;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;10;648;C;Tidak dipanggil
+MHS0040;Higiene Gigi;25;Uang kuliah lancar;14;648;C;Tidak dipanggil
+MHS0236;Manajemen;19;Uang kuliah lancar;8;648;C;Tidak dipanggil
+MHS0229;Perawat Hewan;20;Uang kuliah lancar;11;648;C;Tidak dipanggil
+MHS0110;Keperawatan;18;Uang kuliah lancar;10;649;C;Tidak dipanggil
+MHS0698;Keperawatan;21;Uang kuliah lancar;9;649;C;Tidak dipanggil
+MHS0167;Jurnalistik dan Komunikasi;18;Uang kuliah lancar;10;649;C;Tidak dipanggil
+MHS0148;Desain Komunikasi Visual;20;Uang kuliah lancar;12;650;C;Tidak dipanggil
+MHS0328;Manajemen;18;Uang kuliah lancar;9;650;C;Tidak dipanggil
+MHS0556;Pendidikan Dasar;20;Uang kuliah lancar;10;650;C;Tidak dipanggil
+MHS0786;Kerja Sosial;19;Uang kuliah lancar;8;650;C;Tidak dipanggil
+MHS0166;Manajemen kelas malam;31;Uang kuliah lancar;13;650;C;Tidak dipanggil
+MHS0146;Desain Komunikasi Visual;20;Uang kuliah lancar;12;650;C;Tidak dipanggil
+MHS0632;Manajemen;18;Uang kuliah lancar;8;650;C;Tidak dipanggil
+MHS0612;Manajemen Iklan dan Pemasaran;20;Uang kuliah lancar;11;650;C;Tidak dipanggil
+MHS0691;Desain Komunikasi Visual;34;Uang kuliah lancar;14;651;C;Tidak dipanggil
+MHS0269;Perawat Hewan;20;Uang kuliah lancar;10;651;C;Tidak dipanggil
+MHS0660;Jurnalistik dan Komunikasi;18;Uang kuliah lancar;11;651;C;Tidak dipanggil
+MHS0077;Pariwisata;20;Uang kuliah lancar;10;651;C;Tidak dipanggil
+MHS0132;Jurnalistik dan Komunikasi;32;Uang kuliah lancar;13;651;C;Tidak dipanggil
+MHS0642;Keperawatan;21;Uang kuliah lancar;11;652;C;Tidak dipanggil
+MHS0182;Pendidikan Dasar;18;Uang kuliah lancar;11;652;C;Tidak dipanggil
+MHS0793;Desain Komunikasi Visual;19;Uang kuliah lancar;9;652;C;Tidak dipanggil
+MHS0118;Manajemen;19;Uang kuliah lancar;5;653;C;Tidak dipanggil
+MHS0061;Keperawatan;19;Uang kuliah lancar;10;653;C;Tidak dipanggil
+MHS0054;Pendidikan Dasar;18;Uang kuliah lancar;11;654;C;Tidak dipanggil
+MHS0765;Desain Komunikasi Visual;18;Uang kuliah lancar;12;654;C;Tidak dipanggil
+MHS0564;Keperawatan;18;Uang kuliah lancar;12;654;C;Tidak dipanggil
+MHS0057;Kerja Sosial;36;Uang kuliah lancar;22;655;C;Tidak dipanggil
+MHS0158;Higiene Gigi;21;Uang kuliah lancar;11;655;C;Tidak dipanggil
+MHS0080;Pariwisata;20;Uang kuliah lancar;10;655;C;Tidak dipanggil
+MHS0470;Desain Komunikasi Visual;29;Uang kuliah lancar;19;655;C;Tidak dipanggil
+MHS0256;Keperawatan;27;Uang kuliah lancar;14;656;C;Tidak dipanggil
+MHS0543;Keperawatan;24;Uang kuliah lancar;14;656;C;Tidak dipanggil
+MHS0035;Manajemen Iklan dan Pemasaran;18;Uang kuliah lancar;7;657;B;Tidak dipanggil
+MHS0791;Pendidikan Dasar;18;Uang kuliah lancar;11;657;B;Tidak dipanggil
+MHS0721;Desain Komunikasi Visual;19;Uang kuliah lancar;11;657;B;Tidak dipanggil
+MHS0201;Keperawatan;45;Uang kuliah lancar;21;658;B;Tidak dipanggil
+MHS0513;Manajemen;19;Uang kuliah lancar;8;658;B;Tidak dipanggil
+MHS0788;Keperawatan;32;Uang kuliah lancar;14;658;B;Tidak dipanggil
+MHS0028;Pendidikan Dasar;18;Uang kuliah lancar;10;658;B;Tidak dipanggil
+MHS0781;Manajemen Iklan dan Pemasaran;18;Uang kuliah lancar;7;659;B;Tidak dipanggil
+MHS0587;Keperawatan;26;Uang kuliah lancar;12;660;B;Tidak dipanggil
+MHS0224;Keperawatan;27;Uang kuliah lancar;12;660;B;Tidak dipanggil
+MHS0083;Pendidikan Dasar;20;Uang kuliah lancar;13;660;B;Tidak dipanggil
+MHS0365;Keperawatan;18;Uang kuliah lancar;7;661;B;Tidak dipanggil
+MHS0194;Pendidikan Dasar;18;Uang kuliah lancar;12;661;B;Tidak dipanggil
+MHS0202;Pendidikan Dasar;18;Uang kuliah lancar;13;661;B;Tidak dipanggil
+MHS0731;Higiene Gigi;20;Uang kuliah lancar;15;661;B;Tidak dipanggil
+MHS0291;Jurnalistik dan Komunikasi;19;Uang kuliah lancar;11;662;B;Tidak dipanggil
+MHS0041;Keperawatan;19;Uang kuliah lancar;13;662;B;Tidak dipanggil
+MHS0573;Kerja Sosial;19;Uang kuliah lancar;11;662;B;Tidak dipanggil
+MHS0725;Kerja Sosial;31;Uang kuliah lancar;12;663;B;Tidak dipanggil
+MHS0320;Keperawatan;21;Uang kuliah lancar;10;663;B;Tidak dipanggil
+MHS0211;Jurnalistik dan Komunikasi;18;Uang kuliah lancar;11;663;B;Tidak dipanggil
+MHS0475;Desain Komunikasi Visual;26;Uang kuliah lancar;14;663;B;Tidak dipanggil
+MHS0497;Keperawatan;20;Uang kuliah lancar;13;663;B;Tidak dipanggil
+MHS0638;Agronomi;24;Uang kuliah lancar;17;664;B;Tidak dipanggil
+MHS0686;Keperawatan;18;Uang kuliah lancar;10;664;B;Tidak dipanggil
+MHS0286;Kerja Sosial kelas malam;54;Uang kuliah lancar;24;664;B;Tidak dipanggil
+MHS0773;Higiene Gigi;24;Uang kuliah lancar;13;665;B;Tidak dipanggil
+MHS0569;Keperawatan;18;Uang kuliah lancar;12;666;B;Tidak dipanggil
+MHS0042;Animasi dan Desain Multimedia;24;Uang kuliah lancar;20;666;B;Tidak dipanggil
+MHS0591;Keperawatan;23;Uang kuliah lancar;12;667;B;Tidak dipanggil
+MHS0621;Higiene Gigi;19;Uang kuliah lancar;13;667;B;Tidak dipanggil
+MHS0422;Manajemen Iklan dan Pemasaran;20;Uang kuliah lancar;11;668;B;Tidak dipanggil
+MHS0140;Pendidikan Dasar;20;Uang kuliah lancar;12;669;B;Tidak dipanggil
+MHS0410;Keperawatan;27;Uang kuliah lancar;14;671;B;Tidak dipanggil
+MHS0738;Perawat Hewan;21;Uang kuliah lancar;16;672;B;Tidak dipanggil
+MHS0025;Keperawatan;20;Uang kuliah lancar;13;672;B;Tidak dipanggil
+MHS0130;Pariwisata;23;Uang kuliah lancar;12;673;B;Tidak dipanggil
+MHS0045;Desain Komunikasi Visual;18;Uang kuliah lancar;12;674;B;Tidak dipanggil
+MHS0002;Pendidikan Dasar;18;Uang kuliah lancar;12;675;B;Tidak dipanggil
+MHS0782;Keperawatan;18;Uang kuliah lancar;11;675;B;Tidak dipanggil
+MHS0508;Kerja Sosial;20;Uang kuliah lancar;11;675;B;Tidak dipanggil
+MHS0087;Pendidikan Dasar;18;Uang kuliah lancar;12;675;B;Tidak dipanggil
+MHS0637;Keperawatan;20;Uang kuliah lancar;12;676;B;Tidak dipanggil
+MHS0351;Keperawatan;19;Uang kuliah lancar;11;676;B;Tidak dipanggil
+MHS0437;Animasi dan Desain Multimedia;21;Uang kuliah lancar;23;677;B;Tidak dipanggil
+MHS0726;Manajemen Iklan dan Pemasaran;18;Uang kuliah lancar;11;678;B;Tidak dipanggil
+MHS0512;Keperawatan;19;Uang kuliah lancar;10;678;B;Tidak dipanggil
+MHS0213;Desain Komunikasi Visual;20;Uang kuliah lancar;11;679;B;Tidak dipanggil
+MHS0214;Teknik Informatika;18;Uang kuliah lancar;10;679;B;Tidak dipanggil
+MHS0515;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;11;679;B;Tidak dipanggil
+MHS0232;Peternakan Kuda;20;Uang kuliah lancar;12;679;B;Tidak dipanggil
+MHS0504;Keperawatan;19;Uang kuliah lancar;12;680;B;Tidak dipanggil
+MHS0050;Keperawatan;20;Uang kuliah lancar;12;680;B;Tidak dipanggil
+MHS0476;Keperawatan;20;Uang kuliah lancar;13;681;B;Tidak dipanggil
+MHS0047;Desain Komunikasi Visual;18;Uang kuliah lancar;12;681;B;Tidak dipanggil
+MHS0067;Keperawatan;20;Uang kuliah lancar;14;682;B;Tidak dipanggil
+MHS0280;Keperawatan;22;Uang kuliah lancar;12;683;B;Tidak dipanggil
+MHS0360;Keperawatan;19;Uang kuliah lancar;11;683;B;Tidak dipanggil
+MHS0371;Keperawatan;18;Uang kuliah lancar;14;684;B;Tidak dipanggil
+MHS0106;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;12;684;B;Tidak dipanggil
+MHS0720;Keperawatan;18;Uang kuliah lancar;14;684;B;Tidak dipanggil
+MHS0271;Kerja Sosial kelas malam;45;Uang kuliah lancar;19;684;B;Tidak dipanggil
+MHS0618;Jurnalistik dan Komunikasi;19;Uang kuliah lancar;12;684;B;Tidak dipanggil
+MHS0218;Pendidikan Dasar;20;Uang kuliah lancar;12;686;B;Tidak dipanggil
+MHS0785;Keperawatan;18;Uang kuliah lancar;12;686;B;Tidak dipanggil
+MHS0545;Jurnalistik dan Komunikasi;18;Uang kuliah lancar;12;686;B;Tidak dipanggil
+MHS0440;Agronomi;20;Uang kuliah lancar;11;686;B;Tidak dipanggil
+MHS0645;Desain Komunikasi Visual;19;Uang kuliah lancar;12;686;B;Tidak dipanggil
+MHS0694;Pariwisata;20;Uang kuliah lancar;11;686;B;Tidak dipanggil
+MHS0759;Jurnalistik dan Komunikasi;18;Uang kuliah lancar;12;687;B;Tidak dipanggil
+MHS0736;Keperawatan;24;Uang kuliah lancar;14;687;B;Tidak dipanggil
+MHS0546;Keperawatan;18;Uang kuliah lancar;13;687;B;Tidak dipanggil
+MHS0477;Pendidikan Dasar;20;Uang kuliah lancar;12;688;B;Tidak dipanggil
+MHS0558;Jurnalistik dan Komunikasi;18;Uang kuliah lancar;12;689;B;Tidak dipanggil
+MHS0471;Keperawatan;19;Uang kuliah lancar;14;689;B;Tidak dipanggil
+MHS0379;Jurnalistik dan Komunikasi;19;Uang kuliah lancar;10;690;B;Tidak dipanggil
+MHS0036;Manajemen kelas malam;26;Uang kuliah lancar;12;690;B;Tidak dipanggil
+MHS0006;Keperawatan;19;Uang kuliah lancar;12;692;B;Tidak dipanggil
+MHS0150;Perawat Hewan;20;Uang kuliah lancar;12;692;B;Tidak dipanggil
+MHS0592;Keperawatan;18;Uang kuliah lancar;11;692;B;Tidak dipanggil
+MHS0590;Keperawatan;18;Uang kuliah lancar;14;692;B;Tidak dipanggil
+MHS0650;Keperawatan;18;Uang kuliah lancar;14;692;B;Tidak dipanggil
+MHS0697;Manajemen Iklan dan Pemasaran;18;Uang kuliah lancar;12;693;B;Tidak dipanggil
+MHS0729;Keperawatan;25;Uang kuliah lancar;14;693;B;Tidak dipanggil
+MHS0517;Desain Komunikasi Visual;18;Uang kuliah lancar;12;693;B;Tidak dipanggil
+MHS0200;Keperawatan;19;Uang kuliah lancar;12;694;B;Tidak dipanggil
+MHS0617;Keperawatan;20;Uang kuliah lancar;12;695;A;Tidak dipanggil
+MHS0687;Keperawatan;18;Uang kuliah lancar;14;696;A;Tidak dipanggil
+MHS0304;Keperawatan;18;Uang kuliah lancar;13;696;A;Tidak dipanggil
+MHS0138;Keperawatan;19;Uang kuliah lancar;13;697;A;Tidak dipanggil
+MHS0408;Desain Komunikasi Visual;22;Uang kuliah lancar;12;697;A;Tidak dipanggil
+MHS0382;Teknik Informatika;20;Uang kuliah lancar;12;697;A;Tidak dipanggil
+MHS0764;Keperawatan;20;Uang kuliah lancar;12;697;A;Tidak dipanggil
+MHS0245;Keperawatan;18;Uang kuliah lancar;12;698;A;Tidak dipanggil
+MHS0511;Manajemen Iklan dan Pemasaran;18;Uang kuliah lancar;12;698;A;Tidak dipanggil
+MHS0549;Jurnalistik dan Komunikasi;19;Uang kuliah lancar;12;699;A;Tidak dipanggil
+MHS0563;Keperawatan;21;Uang kuliah lancar;14;700;A;Tidak dipanggil
+MHS0100;Keperawatan;18;Uang kuliah lancar;12;701;A;Tidak dipanggil
+MHS0141;Keperawatan;18;Uang kuliah lancar;12;701;A;Tidak dipanggil
+MHS0495;Keperawatan;20;Uang kuliah lancar;14;702;A;Tidak dipanggil
+MHS0186;Keperawatan;20;Uang kuliah lancar;11;702;A;Tidak dipanggil
+MHS0287;Keperawatan;19;Uang kuliah lancar;14;704;A;Tidak dipanggil
+MHS0226;Keperawatan;19;Uang kuliah lancar;12;705;A;Tidak dipanggil
+MHS0449;Peternakan Kuda;18;Uang kuliah lancar;12;705;A;Tidak dipanggil
+MHS0117;Keperawatan;18;Uang kuliah lancar;16;706;A;Tidak dipanggil
+MHS0683;Keperawatan;19;Uang kuliah lancar;11;707;A;Tidak dipanggil
+MHS0029;Keperawatan;20;Uang kuliah lancar;12;708;A;Tidak dipanggil
+MHS0174;Keperawatan;20;Uang kuliah lancar;11;712;A;Tidak dipanggil
+MHS0394;Keperawatan;19;Uang kuliah lancar;12;713;A;Tidak dipanggil
+MHS0010;Keperawatan;19;Uang kuliah lancar;12;713;A;Tidak dipanggil
+MHS0397;Manajemen Iklan dan Pemasaran;19;Uang kuliah lancar;12;713;A;Tidak dipanggil
+MHS0718;Animasi dan Desain Multimedia;19;Uang kuliah lancar;22;715;A;Tidak dipanggil
+MHS0453;Desain Komunikasi Visual;20;Uang kuliah lancar;12;716;A;Tidak dipanggil
+MHS0629;Keperawatan;19;Uang kuliah lancar;14;718;A;Tidak dipanggil
+MHS0205;Keperawatan;18;Uang kuliah lancar;13;723;A;Tidak dipanggil
+MHS0241;Keperawatan;18;Uang kuliah lancar;12;727;A;Tidak dipanggil
+MHS0745;Keperawatan;18;Uang kuliah lancar;14;728;A;Tidak dipanggil
+MHS0046;Keperawatan;18;Uang kuliah lancar;15;730;A;Tidak dipanggil
+MHS0177;Desain Komunikasi Visual;18;Uang kuliah lancar;12;732;A;Tidak dipanggil
+MHS0606;Keperawatan;19;Uang kuliah lancar;14;733;A;Tidak dipanggil
